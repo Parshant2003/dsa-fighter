@@ -4,21 +4,6 @@ Welcome to **DSA Fighter** – a dedicated repository for solving **Data Structu
 
 ---
 
-## 📂 Folder Structure
-
-DSA/
-├── Greedy/
-│ ├── AssignCookie.java
-│ ├── FractionalKnapsack.java
-│ └── Nmeeting.java
-├── DP/
-├── Trees/
-├── Graphs/
-└── ... more coming soon!
-
-
----
-
 ## 💡 What You'll Find Here
 
 - ✅ Clean and beginner-friendly Java code
